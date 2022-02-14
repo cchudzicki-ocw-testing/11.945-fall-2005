@@ -10,7 +10,11 @@ image_metadata:
     in with the houses, and some are actually run out of residents' homes.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Hidden business.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 21_hidden_business.jpg
+type: OCWImage
 uid: 925425a6-5e4c-de88-c4fb-b8a040be0408
 ---

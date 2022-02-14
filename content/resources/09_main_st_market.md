@@ -7,7 +7,11 @@ image_metadata:
   caption: A small grocery market on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Grocery store.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 09_main_st_market.jpg
+type: OCWImage
 uid: bdeef394-3377-b0fa-32ff-575a250a9d76
 ---

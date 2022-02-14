@@ -7,7 +7,11 @@ image_metadata:
   caption: An abandoned building in the North End.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Abandoned building.
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: 05_abandoned_bldg.jpg
+type: OCWImage
 uid: 181cf522-9a9a-a17c-eb28-8c69780ddc5a
 ---

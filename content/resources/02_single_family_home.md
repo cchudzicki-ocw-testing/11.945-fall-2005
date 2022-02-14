@@ -8,7 +8,11 @@ image_metadata:
   caption: This housing typology is more common in the Brightwood neighborhood.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: House.
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: 02_single_family_home.jpg
+type: OCWImage
 uid: 3abef865-f6ee-1a2d-ab1a-ff0f67ba915b
 ---

@@ -8,7 +8,11 @@ image_metadata:
   caption: A laundromat in the strip mall on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Laundromat.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 15_main_st_laundry.jpg
+type: OCWImage
 uid: 0345d43e-38d6-6044-7fcf-faf3c4f77714
 ---

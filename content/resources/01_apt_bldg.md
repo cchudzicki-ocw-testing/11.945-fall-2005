@@ -8,7 +8,11 @@ image_metadata:
   caption: Apartment buildings are common near Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Apartment.
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: 01_apt_bldg.jpg
+type: OCWImage
 uid: d9de41e2-ac6e-a5c0-f405-0a6b41cf0934
 ---

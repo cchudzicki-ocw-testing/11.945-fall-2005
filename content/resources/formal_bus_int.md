@@ -7,7 +7,12 @@ description: During the semester, students determined that they needed to conduc
   courtesy of the class and used with permission.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-945-springfield-studio-fall-2005/5756a45a634d3a490f5e37c32be89c16_formal_bus_int.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: formal_bus_int.pdf
+type: OCWFile
 uid: 5756a45a-634d-3a49-0f5e-37c32be89c16
 ---

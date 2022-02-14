@@ -7,7 +7,11 @@ image_metadata:
   caption: The Lincoln Magnet School close up.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Lincoln Magnet.
+learning_resource_types: []
+parent_title: Schools
+parent_type: CourseSection
 resourcetype: Image
 title: 03_lincoln_magnet.jpg
+type: OCWImage
 uid: 8511ab68-bb93-b780-886d-ee859008f51b
 ---

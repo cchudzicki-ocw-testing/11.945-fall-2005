@@ -8,7 +8,11 @@ image_metadata:
   caption: A nail salon in the strip mall on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Nail salon.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 16_main_st_nails.jpg
+type: OCWImage
 uid: 95a4b8ef-53a1-2ad0-2a61-cd59f7be6e3a
 ---

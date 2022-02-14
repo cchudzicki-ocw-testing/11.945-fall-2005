@@ -8,7 +8,11 @@ image_metadata:
   caption: Old San Juan Bakery in the strip mall on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: San Juan Bakery.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 17_main_st_san_juan.jpg
+type: OCWImage
 uid: 25cc6436-995e-ff23-f00d-08887cfbd581
 ---

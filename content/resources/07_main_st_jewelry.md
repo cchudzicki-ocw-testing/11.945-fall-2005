@@ -7,7 +7,11 @@ image_metadata:
   caption: A small jewelry store on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Jewelry store.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 07_main_st_jewelry.jpg
+type: OCWImage
 uid: d21e37dc-6748-7d3a-96f2-5385a00527c5
 ---

@@ -9,7 +9,11 @@ image_metadata:
     in the North End.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Fruit stand.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 02_main_st_fruit_stand.jpg
+type: OCWImage
 uid: d02407db-a8d6-a396-7e8b-f6f2c50f0d73
 ---

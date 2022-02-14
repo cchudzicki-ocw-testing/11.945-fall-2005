@@ -8,7 +8,11 @@ image_metadata:
   caption: Interstate 91 runs directly through the North End.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Highway.
+learning_resource_types: []
+parent_title: Transportation
+parent_type: CourseSection
 resourcetype: Image
 title: 01_highway.jpg
+type: OCWImage
 uid: 46ff714b-fe70-80f7-cde2-88e5639cf3b1
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: An autobody shop on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Auto body.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 03_main_st_auto.jpg
+type: OCWImage
 uid: 8c8be254-442b-35ed-021a-bf120e4ce4f5
 ---

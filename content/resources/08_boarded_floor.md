@@ -8,7 +8,11 @@ image_metadata:
   caption: Only a part of this multi-family unit has been abandoned.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Abandoned unit.
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: 08_boarded_floor.jpg
+type: OCWImage
 uid: c5ce7430-ff7c-5022-5613-a8fffc927232
 ---

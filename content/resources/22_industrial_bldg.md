@@ -8,7 +8,11 @@ image_metadata:
   caption: Industrial buildings are common in the land around the railroad and highway.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Industry.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 22_industrial_bldg.jpg
+type: OCWImage
 uid: 04dfcb91-152c-16c8-223c-50f9e7907c51
 ---

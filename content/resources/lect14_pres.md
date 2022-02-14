@@ -9,7 +9,12 @@ description: This resource discusses the Why business development and retention?
   recruitment methods, and evaluate marketing results to assess effectiveness.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-945-springfield-studio-fall-2005/38f14cd4a113b088b708c71199e3dd4a_lect14_pres.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect14_pres.pdf
+type: OCWFile
 uid: 38f14cd4-a113-b088-b708-c71199e3dd4a
 ---

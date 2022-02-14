@@ -8,7 +8,11 @@ image_metadata:
   caption: Some of the housing suffers from poor maintenance.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Broken window.
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: 07_broken_window.jpg
+type: OCWImage
 uid: a6dc84c7-656c-0bac-3694-19f1060b73cb
 ---

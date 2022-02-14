@@ -8,7 +8,11 @@ image_metadata:
   caption: The New North Citizen's Council is also located on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: New North Citizen's Council.
+learning_resource_types: []
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 19_main_st_nncc.jpg
+type: OCWImage
 uid: 1f417a4e-d858-f672-8912-2013c682cab6
 ---
