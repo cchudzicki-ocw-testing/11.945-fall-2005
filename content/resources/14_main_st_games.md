@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 14_main_st_games.jpg
-type: OCWImage
 uid: 2bc8af8f-800e-8ec0-9eb7-4ac7cb23ed4e
 ---

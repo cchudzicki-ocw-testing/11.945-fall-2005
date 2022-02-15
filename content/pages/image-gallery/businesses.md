@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 title: Businesses
-type: CourseSection
 uid: ad634494-9626-ff27-5475-fa31623d8255
 ---
 

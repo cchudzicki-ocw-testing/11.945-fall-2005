@@ -13,6 +13,5 @@ parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image
 title: 08_boarded_floor.jpg
-type: OCWImage
 uid: c5ce7430-ff7c-5022-5613-a8fffc927232
 ---

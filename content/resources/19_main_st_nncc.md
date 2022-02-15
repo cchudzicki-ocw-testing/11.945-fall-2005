@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 19_main_st_nncc.jpg
-type: OCWImage
 uid: 1f417a4e-d858-f672-8912-2013c682cab6
 ---

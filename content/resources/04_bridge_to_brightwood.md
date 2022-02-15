@@ -14,6 +14,5 @@ parent_title: Transportation
 parent_type: CourseSection
 resourcetype: Image
 title: 04_bridge_to_brightwood.jpg
-type: OCWImage
 uid: 60c83078-9c3b-cdd4-83ec-f94545d7157a
 ---

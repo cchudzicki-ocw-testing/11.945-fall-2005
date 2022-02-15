@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 18_main_st_mcds_close.jpg
-type: OCWImage
 uid: 58f7a62f-9782-3d98-a714-f41670fe999e
 ---

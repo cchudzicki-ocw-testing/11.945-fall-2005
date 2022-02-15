@@ -14,6 +14,5 @@ parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image
 title: 06_boarded_windows.jpg
-type: OCWImage
 uid: a2be4713-340e-dcdd-29d6-e2afbc57f481
 ---

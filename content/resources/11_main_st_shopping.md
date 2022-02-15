@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 11_main_st_shopping.jpg
-type: OCWImage
 uid: 4de768b2-8236-1bbd-2565-58ea43a9030d
 ---

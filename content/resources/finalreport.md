@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: finalreport.pdf
-type: OCWFile
 uid: 1623acfe-b51c-0134-4b12-9e7949318529
 ---

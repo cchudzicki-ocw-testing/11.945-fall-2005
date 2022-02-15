@@ -12,6 +12,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 05_main_st_gifts.jpg
-type: OCWImage
 uid: 7fa72f7a-bb4a-3a5f-a196-a52b388d511c
 ---

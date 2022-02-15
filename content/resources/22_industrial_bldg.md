@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 22_industrial_bldg.jpg
-type: OCWImage
 uid: 04dfcb91-152c-16c8-223c-50f9e7907c51
 ---

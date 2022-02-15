@@ -15,6 +15,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 21_hidden_business.jpg
-type: OCWImage
 uid: 925425a6-5e4c-de88-c4fb-b8a040be0408
 ---

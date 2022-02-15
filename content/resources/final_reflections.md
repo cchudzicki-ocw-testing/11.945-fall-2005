@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: final_reflections.pdf
-type: OCWFile
 uid: c46e1be6-399b-396b-b1de-3fb196f7f2cb
 ---

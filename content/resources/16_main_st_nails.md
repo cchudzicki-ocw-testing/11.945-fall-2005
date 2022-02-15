@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 16_main_st_nails.jpg
-type: OCWImage
 uid: 95a4b8ef-53a1-2ad0-2a61-cd59f7be6e3a
 ---

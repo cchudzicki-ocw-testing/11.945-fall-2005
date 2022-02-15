@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 title: Schools
-type: CourseSection
 uid: f430bf9b-6f62-31a0-88fc-c2a1a517d776
 ---
 

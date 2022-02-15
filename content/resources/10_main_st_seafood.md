@@ -12,6 +12,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 10_main_st_seafood.jpg
-type: OCWImage
 uid: 62b37446-9f17-d0fb-f9b8-7937fcd465f0
 ---

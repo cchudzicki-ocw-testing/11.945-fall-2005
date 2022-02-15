@@ -13,6 +13,5 @@ parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image
 title: 04_multi_family_dwelling.jpg
-type: OCWImage
 uid: e8aa1199-7644-a8ad-6382-727139cf68bb
 ---

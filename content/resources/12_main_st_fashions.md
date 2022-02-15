@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 12_main_st_fashions.jpg
-type: OCWImage
 uid: 9886b25b-1d69-adeb-8d4e-f7ec4301454c
 ---

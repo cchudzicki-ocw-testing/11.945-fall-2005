@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 title: Transportation
-type: CourseSection
 uid: 5b7c687c-83b7-b970-33eb-e49e1648067c
 ---
 

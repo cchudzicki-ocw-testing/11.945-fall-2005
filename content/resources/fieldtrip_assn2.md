@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: fieldtrip_assn2.pdf
-type: OCWFile
 uid: 532030e6-2aaa-d0c7-c9d7-05c7090a0eb6
 ---

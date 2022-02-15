@@ -15,6 +15,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lect14_pres.pdf
-type: OCWFile
 uid: 38f14cd4-a113-b088-b708-c71199e3dd4a
 ---

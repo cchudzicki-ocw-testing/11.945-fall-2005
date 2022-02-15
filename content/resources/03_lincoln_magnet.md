@@ -12,6 +12,5 @@ parent_title: Schools
 parent_type: CourseSection
 resourcetype: Image
 title: 03_lincoln_magnet.jpg
-type: OCWImage
 uid: 8511ab68-bb93-b780-886d-ee859008f51b
 ---

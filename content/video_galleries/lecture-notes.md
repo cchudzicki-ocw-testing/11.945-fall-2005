@@ -4,7 +4,6 @@ is_media_gallery: true
 learning_resource_types:
 - Lecture Notes
 title: Lecture Notes
-type: CourseSection
 uid: 8a0dfd24-cafe-b85c-1793-7a737cde3145
 videos:
   content:

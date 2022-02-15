@@ -12,6 +12,5 @@ parent_title: Transportation
 parent_type: CourseSection
 resourcetype: Image
 title: 02_hwy_entrance.jpg
-type: OCWImage
 uid: a4bacd73-8fd8-a4d6-0b3e-dbee843fad01
 ---

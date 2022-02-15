@@ -13,6 +13,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 17_main_st_san_juan.jpg
-type: OCWImage
 uid: 25cc6436-995e-ff23-f00d-08887cfbd581
 ---

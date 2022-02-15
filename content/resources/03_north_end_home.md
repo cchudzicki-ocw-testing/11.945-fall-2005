@@ -13,6 +13,5 @@ parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image
 title: 03_north_end_home.jpg
-type: OCWImage
 uid: ff1e09fd-ab32-9e8a-e885-6740429637c0
 ---

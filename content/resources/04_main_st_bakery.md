@@ -12,6 +12,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 04_main_st_bakery.jpg
-type: OCWImage
 uid: 0df9607f-5354-d9cb-e198-1c123c022744
 ---

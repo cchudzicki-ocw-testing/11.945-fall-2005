@@ -24,6 +24,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lect8_pres.pdf
-type: OCWFile
 uid: 6f79788a-c51c-b2ad-cf91-d191f4a0bcc3
 ---

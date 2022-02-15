@@ -12,6 +12,5 @@ parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image
 title: 06_main_st_music.jpg
-type: OCWImage
 uid: 88915bb8-4e9b-868d-185f-0c0fa3b87374
 ---

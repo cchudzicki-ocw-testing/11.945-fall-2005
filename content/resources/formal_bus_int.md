@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: formal_bus_int.pdf
-type: OCWFile
 uid: 5756a45a-634d-3a49-0f5e-37c32be89c16
 ---

@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: criticalmoments.pdf
-type: OCWFile
 uid: 4bcf2a41-9a59-676f-158e-80d0c40c1ee9
 ---
