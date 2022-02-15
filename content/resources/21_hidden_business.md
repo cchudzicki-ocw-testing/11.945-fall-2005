@@ -11,6 +11,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Hidden business.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
 resourcetype: Image

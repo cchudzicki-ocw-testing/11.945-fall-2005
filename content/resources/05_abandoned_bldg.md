@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Abandoned building.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image

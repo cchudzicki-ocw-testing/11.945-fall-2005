@@ -9,6 +9,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Gerena.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Schools
 parent_type: CourseSection
 resourcetype: Image
