@@ -79,7 +79,7 @@ Novak. "Neighborhood Initiative and the Regional Economy." In _Approaches to Eco
 Review/Discussion of North End Field Trip Project Resources and Work Plan
 {{< tdclose >}}
 {{< tdopen >}}
-Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ([PDF]({{< baseurl >}}/resources/criticalmoments))
+Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ({{< resource_link 4bcf2a41-9a59-676f-158e-80d0c40c1ee9 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -387,7 +387,7 @@ Trial Run of Plan Presentation
 Course Conclusion and Reflections
 {{< tdclose >}}
 {{< tdopen >}}
-Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ([PDF]({{< baseurl >}}/resources/criticalmoments))
+Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ({{< resource_link 4bcf2a41-9a59-676f-158e-80d0c40c1ee9 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
