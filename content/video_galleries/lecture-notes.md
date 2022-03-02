@@ -35,7 +35,7 @@ LECTURE NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Economic Development Theories: Neighborhoods as Economic Units Slides ({{< resource_link df452abf-3785-c26c-e741-1ca31397a4a4 "PDF" >}}); Notes ({{< resource_link aa6f74e0-2be8-1087-f593-3e58090ad02c "PDF" >}})
+Economic Development Theories: Neighborhoods as Economic Units Slides ({{% resource_link df452abf-3785-c26c-e741-1ca31397a4a4 "PDF" %}}); Notes ({{% resource_link aa6f74e0-2be8-1087-f593-3e58090ad02c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +53,7 @@ Review/Discussion of North End Field Trip Project Resources and Work Plan
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Developing an Economic Development Plan ({{< resource_link 793de0a7-552c-faec-5264-f250beef85bf "PDF" >}})
+Developing an Economic Development Plan ({{% resource_link 793de0a7-552c-faec-5264-f250beef85bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ Developing an Economic Development Plan ({{< resource_link 793de0a7-552c-faec-52
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Reading Review / Work Session: Springfield Political Context ({{< resource_link ae2f2a82-5c82-2f77-698d-94be37d0bae5 "PDF" >}})
+Reading Review / Work Session: Springfield Political Context ({{% resource_link ae2f2a82-5c82-2f77-698d-94be37d0bae5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +71,7 @@ Reading Review / Work Session: Springfield Political Context ({{< resource_link 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Local Economic Analysis Tools ({{< resource_link 6f79788a-c51c-b2ad-cf91-d191f4a0bcc3 "PDF" >}})
+Local Economic Analysis Tools ({{% resource_link 6f79788a-c51c-b2ad-cf91-d191f4a0bcc3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ Client Meeting
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Structuring an Economic Development Strategy ({{< resource_link 104c788f-fd14-6721-b688-f1f9a760e89c "PDF" >}}) District Revitalization Tools: Business Development and Marketing ({{< resource_link 38f14cd4-a113-b088-b708-c71199e3dd4a "PDF" >}})
+Structuring an Economic Development Strategy ({{% resource_link 104c788f-fd14-6721-b688-f1f9a760e89c "PDF" %}}) District Revitalization Tools: Business Development and Marketing ({{% resource_link 38f14cd4-a113-b088-b708-c71199e3dd4a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
