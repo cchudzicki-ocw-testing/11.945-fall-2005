@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
 parent_type: CourseSection
-related_resources_text: "\_Lecture notes ([PDF](resources/lect8_pres))"
+related_resources_text: "\_Lecture notes ([PDF](/courses/11-945-springfield-studio-fall-2005/resources/lect8_pres))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Local Economic Analysis Tools'
