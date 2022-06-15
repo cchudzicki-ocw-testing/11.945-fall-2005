@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section contains 1 assignment file for session 2 and
+  2 assignments for field trips.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

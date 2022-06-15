@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: The lecture notes section contains 6 lecture files and 4 video files
+  for the course.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Notes
