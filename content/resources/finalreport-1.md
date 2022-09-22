@@ -7,6 +7,7 @@ file: /courses/11-945-springfield-studio-fall-2005/c82203acc3217a313472191ba664d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
